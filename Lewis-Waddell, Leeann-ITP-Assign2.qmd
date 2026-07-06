@@ -14,10 +14,11 @@ execute:
   freeze: auto
 ---
 
-# **Store name and concept**
+# **Store Name & Concept**
 
-\
-Provide the name of your store and a brief description of what it sells.
+## **Store Name: UGC University**
+
+UGC University is a digital store front that caters to digital content creators in need of tools and systems to grow their platforms. Target audience includes not only new and seasoned content creators, but one-stop shopping for small business owners to amplify their brand reach. In addition to providing (physical & digital) systems to plan content, track income, expenses, and deal pipelines, UGC University is an ecosystem from which production equipment tailored for mobile content creation can be purchased in one place. Digital products will include guides and speaker events intended to inform and inspire new and established creators alike.
 
 # **Target customer** 
 
