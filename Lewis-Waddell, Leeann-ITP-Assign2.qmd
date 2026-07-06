@@ -13,3 +13,37 @@ editor: visual
 execute: 
   freeze: auto
 ---
+
+# **Store name and concept**
+
+\
+Provide the name of your store and a brief description of what it sells.
+
+# **Target customer** 
+
+Describe your target customer. Include basic demographic, lifestyle, or shopping behavior characteristics.
+
+# **Product category plan** 
+
+Identify at least **three to five product categories** your store will include.
+
+# **Initial Shopify setup evidence**
+
+\
+Include screenshots showing:
+
+-   Your Shopify admin area
+
+-   Your selected theme
+
+-   Your homepage draft or theme customization page
+
+# **Connection to CPP Farm Store** 
+
+Write one paragraph explaining how your store concept or setup decisions could help you think about the CPP Farm Store consulting project.
+
+# **Appendix**
+
+-   [GitHub Repo](https://github.com/lewiswaddell/ITP-W04.git)
+
+-   [GitHub Page](https://lewiswaddell.github.io/ITP-W04/)
