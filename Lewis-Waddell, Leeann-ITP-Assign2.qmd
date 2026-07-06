@@ -1,0 +1,15 @@
+---
+title: "ITP-Shopify Store - Assignment 2 - Store Concept and Initial Shopify Setup"
+author: "Leeann Lewis-Waddell"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
