@@ -14,21 +14,21 @@ execute:
   freeze: auto
 ---
 
-# **Store Name & Concept**
+# 🛍️ **Store Name & Concept** {.unnumbered}
 
-## **Store Name: UGC University**
+## **Store Name: UGC University** {.unnumbered}
 
 UGC University is a digital store front that caters to digital content creators in need of tools and systems to grow their platforms. Target audience includes not only new and seasoned content creators, but one-stop shopping for small business owners to amplify their brand reach. In addition to providing (physical & digital) systems to plan content, track income, expenses, and deal pipelines, UGC University is an ecosystem from which production equipment tailored for mobile content creation can be purchased in one place. Digital products will include guides and speaker events intended to inform and inspire new and established creators alike.
 
-# **Target customer** 
+# 🎯 **Target Customer** {.unnumbered} 
 
 The ideal customer is an entrepreneur interested in content creation for social media based advertising and brand building. This could be either a user generated content creator providing B2B services or a small business owner promoting their product or service. These people are creative pro-sumers who not only chronically online and spend a significant amount of time studying brand and ad strategy, but also see the value in investing in knowledge and tools to grow their reach and revenue. This demographic is subject to influence from the creator economy industry and will explore coaching opportunities based on the recommendation of their peers and the creators whose trajectory they admire.
 
-# **Product category plan** 
+# 🗒️ **Product Category Plan** {.unnumbered} 
 
 Identify at least **three to five product categories** your store will include.
 
-# **Initial Shopify setup evidence**
+# 💻 **Initial Shopify Setup Evidence** {.unnumbered}
 
 \
 Include screenshots showing:
@@ -39,11 +39,11 @@ Include screenshots showing:
 
 -   Your homepage draft or theme customization page
 
-# **Connection to CPP Farm Store** 
+# 🐎 **Connection to CPP Farm Store** {.unnumbered} 
 
 Write one paragraph explaining how your store concept or setup decisions could help you think about the CPP Farm Store consulting project.
 
-# **Appendix**
+# **Appendix** {.unnumbered}
 
 -   [GitHub Repo](https://github.com/lewiswaddell/ITP-W04.git)
 
