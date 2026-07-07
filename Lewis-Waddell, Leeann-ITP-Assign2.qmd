@@ -38,18 +38,23 @@ At the center of the UGC University customer base is a new kind of entrepreneur:
 
 3.  **Digital Downloads**
 
-    Shot list templates, digital portfolio templates, media kit templates, brand pitch decks. These are purely digital products with no fulfillment cost, but high margin.
+    Shot list templates, digital portfolio templates, media kit templates, brand pitch decks, UGC creator-specific Notion templates. These are purely digital products with no fulfillment cost, but high margin.
 
 # 💻 **Initial Shopify Setup Evidence** {.unnumbered}
 
-\
-Include screenshots showing:
+##  Shopify Admin Area {.unnumbered}
 
--   Your Shopify admin area
+![](images/clipboard-982733330.png)
 
--   Your selected theme
+## Selected Theme {.unnumbered}
 
--   Your homepage draft or theme customization page
+![](images/clipboard-2615612924.png)
+
+## Homepage Draft {.unnumbered}
+
+![](images/clipboard-2771496056.png)
+
+![](images/clipboard-3694356341.png)
 
 # 🐎 **Connection to CPP Farm Store** {.unnumbered} 
 
